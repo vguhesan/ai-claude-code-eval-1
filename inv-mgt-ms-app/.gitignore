@@ -10,3 +10,27 @@ secrets.properties
 
 # Ignore vscode configuration - since they are customized to me
 /.vscode/
+
+# Ignore any Java builds - since they can contain secrets
+target/
+build/
+out/
+bin/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.DS_Store
+*.thumb
+*.log
