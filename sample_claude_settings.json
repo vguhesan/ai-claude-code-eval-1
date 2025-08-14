@@ -1,0 +1,8 @@
+{
+  "env": {
+    "CLAUDE_CODE_USE_BEDROCK":"1",
+    "ANTHROPIC_MODEL":"us.anthropic.claude-3-7-sonnet-20250219-v1:0",
+    "ANTHROPIC_SMALL_FAST_MODEL":"us.anthropic.claude-3-5-haiku-20241022-v1:0",
+    "AWS_BEARER_TOKEN_BEDROCK":"<ENTER YOUR AWS BEDROCK_TOKEN HERE>"
+  }
+}

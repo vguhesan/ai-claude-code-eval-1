@@ -1,0 +1,51 @@
+product_id,product_name,price,size,upc_code,amount,category,color,weight,in_stock
+1001,Wireless Headphones,129.99,Medium,845973410258,45,Electronics,Black,0.35,TRUE
+1002,Cotton T-Shirt,19.95,Large,724619853047,120,Clothing,White,0.2,TRUE
+1003,Stainless Steel Water Bottle,24.50,500ml,936284751093,78,Kitchen,Silver,0.5,TRUE
+1004,Yoga Mat,35.99,Standard,618493027584,32,Fitness,Purple,1.2,TRUE
+1005,LED Desk Lamp,42.75,Small,570382941625,56,Home,White,0.8,TRUE
+1006,Bluetooth Speaker,89.99,Compact,391746582039,23,Electronics,Blue,0.6,FALSE
+1007,Leather Wallet,49.95,Standard,482057391648,67,Accessories,Brown,0.15,TRUE
+1008,Ceramic Coffee Mug,12.99,12oz,759284613095,94,Kitchen,Red,0.4,TRUE
+1009,Running Shoes,79.50,9.5,628491375026,18,Footwear,Black,0.7,FALSE
+1010,Portable Power Bank,34.99,10000mAh,194736582047,51,Electronics,Gray,0.3,TRUE
+1011,Smart Watch,199.95,42mm,583921674039,29,Electronics,Black,0.05,TRUE
+1012,Denim Jeans,59.99,32x34,472938561047,85,Clothing,Blue,0.65,TRUE
+1013,Stainless Steel Cookware Set,149.50,5-piece,836492751038,12,Kitchen,Silver,3.2,TRUE
+1014,Resistance Bands,15.99,Set of 3,729384651092,64,Fitness,Multicolor,0.3,TRUE
+1015,Scented Candle,22.50,8oz,463819275046,47,Home,Beige,0.4,TRUE
+1016,Wireless Mouse,29.99,Standard,593847261059,38,Electronics,Black,0.15,TRUE
+1017,Sunglasses,89.95,Medium,372948165037,26,Accessories,Black,0.1,TRUE
+1018,Glass Food Storage Set,34.50,4-piece,947362581094,41,Kitchen,Clear,1.8,TRUE
+1019,Hiking Boots,119.99,10,583947261058,15,Footwear,Brown,1.2,TRUE
+1020,USB-C Cable,14.99,2m,472938561048,103,Electronics,White,0.1,TRUE
+1021,Backpack,45.99,Standard,583921674040,37,Accessories,Navy,0.8,TRUE
+1022,Plant Pot,18.50,6-inch,472938561049,62,Home,Terracotta,0.9,TRUE
+1023,Protein Powder,39.99,2lb,836492751039,28,Fitness,White,0.9,FALSE
+1024,Wireless Charger,24.95,Standard,729384651093,43,Electronics,Black,0.2,TRUE
+1025,Cutting Board,29.50,Large,463819275047,31,Kitchen,Wood,1.1,TRUE
+1026,Moisturizer,18.99,8oz,593847261060,76,Beauty,White,0.3,TRUE
+1027,Throw Pillow,22.50,18x18,372948165038,54,Home,Gray,0.5,TRUE
+1028,Mechanical Keyboard,79.99,Full-size,947362581095,19,Electronics,Black,1.0,FALSE
+1029,Insulated Tumbler,27.95,20oz,583947261059,68,Kitchen,Blue,0.4,TRUE
+1030,Fitness Tracker,59.99,Small,472938561050,33,Electronics,Red,0.03,TRUE
+1031,Digital Camera,349.99,Compact,583921674041,17,Electronics,Silver,0.45,TRUE
+1032,Graphic Novel,24.99,Paperback,472938561051,42,Books,Multicolor,0.6,TRUE
+1033,Cast Iron Skillet,39.95,10-inch,836492751040,23,Kitchen,Black,2.5,TRUE
+1034,Jump Rope,12.50,9ft,729384651094,81,Fitness,Black,0.2,TRUE
+1035,Desk Organizer,28.75,Medium,463819275048,39,Office,Bamboo,1.3,TRUE
+1036,Wireless Earbuds,69.99,Small,593847261061,27,Electronics,White,0.02,FALSE
+1037,Leather Belt,34.50,36-inch,372948165039,53,Accessories,Brown,0.25,TRUE
+1038,Blender,79.95,48oz,947362581096,19,Kitchen,Black,3.0,TRUE
+1039,Sandals,29.99,8,583947261060,44,Footwear,Tan,0.5,TRUE
+1040,HDMI Cable,19.50,3m,472938561052,92,Electronics,Black,0.15,TRUE
+1041,Tote Bag,32.99,Large,583921674042,58,Accessories,Canvas,0.4,TRUE
+1042,Succulent Plant,15.95,4-inch,472938561053,37,Home,Green,0.3,TRUE
+1043,Dumbbells,45.50,10lb pair,836492751041,21,Fitness,Gray,4.5,TRUE
+1044,Tablet Stand,22.99,Adjustable,729384651095,49,Electronics,Silver,0.35,TRUE
+1045,Measuring Cups,17.50,4-piece,463819275049,63,Kitchen,Stainless,0.5,TRUE
+1046,Face Wash,14.99,6oz,593847261062,82,Beauty,Blue,0.2,TRUE
+1047,Area Rug,89.95,5x7ft,372948165040,11,Home,Beige,3.8,FALSE
+1048,Portable SSD,129.99,1TB,947362581097,25,Electronics,Black,0.1,TRUE
+1049,Hiking Socks,12.95,Medium,583947261061,73,Clothing,Green,0.1,TRUE
+1050,Smart Bulb,24.50,Standard,472938561054,46,Home,White,0.2,TRUE

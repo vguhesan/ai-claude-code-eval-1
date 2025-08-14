@@ -1,0 +1,31 @@
+title: Sample GET and PUT Request
+
+_: **1. GET Sequence**
+
+User -> Microservice: Issue GET request
+
+Microservice -> In-Memory Database: Query database for record
+
+In-Memory Database -> Microservice: Return query results
+
+Microservice -->> User: Return fetched record
+
+_: **2. PUT Sequence**
+
+User -> Microservice: Issue PUT request with modified record
+
+Microservice -> SQS Queue: Post modified object to SQS queue
+
+SQS Queue -->> Microservice: Return Success response
+
+Microservice -> SQS Queue: Fetch new object from SQS queue
+
+SQS Queue -->> Microservice: Return new object from SQS queue
+
+Microservice -> In-Memory Database: Update record in database
+
+In-Memory Database -->> Microservice: Return query results
+
+
+Microservice -->> User: Return success response
+

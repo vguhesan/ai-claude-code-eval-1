@@ -1,0 +1,51 @@
+widget_id,widget_name,price,size,upc_code,amount,category,material,weight,is_available
+W1001,Rotary Widget,45.99,Medium,845973410123,32,Industrial,Steel,0.75,TRUE
+W1002,Linear Widget,29.95,Small,724619853012,87,Consumer,Plastic,0.25,TRUE
+W1003,Precision Widget,89.50,Micro,936284751034,14,Medical,Titanium,0.12,TRUE
+W1004,Heavy Duty Widget,124.99,Large,618493027512,8,Construction,Alloy,2.5,TRUE
+W1005,Compact Widget,19.75,Mini,570382941645,65,Electronics,Composite,0.18,TRUE
+W1006,Flexible Widget,37.50,Standard,391746582067,41,Automotive,Rubber,0.45,FALSE
+W1007,Smart Widget,149.95,Medium,482057391623,23,IoT,Aluminum,0.35,TRUE
+W1008,Basic Widget,12.99,Small,759284613078,112,Household,Plastic,0.22,TRUE
+W1009,Premium Widget,199.50,Large,628491375091,7,Professional,Carbon Fiber,0.55,FALSE
+W1010,Eco Widget,34.99,Medium,194736582015,53,Sustainable,Bamboo,0.40,TRUE
+W1011,Tactical Widget,67.50,Standard,837261495023,19,Military,Kevlar,0.65,TRUE
+W1012,Modular Widget,42.25,Medium,629384715092,36,Engineering,Polycarbonate,0.30,TRUE
+W1013,Portable Widget,24.99,Small,517293846102,58,Travel,Nylon,0.15,TRUE
+W1014,Industrial Widget,79.95,Large,392817465029,11,Manufacturing,Stainless Steel,1.8,TRUE
+W1015,Miniature Widget,15.50,Micro,746291835027,94,Precision,Silicon,0.08,TRUE
+W1016,Rugged Widget,59.99,Medium,183749265013,27,Outdoor,Reinforced Plastic,0.85,FALSE
+W1017,Wireless Widget,129.95,Standard,928374651092,16,Connectivity,Composite,0.28,TRUE
+W1018,Budget Widget,9.99,Small,473829165043,145,Economy,Plastic,0.20,TRUE
+W1019,Luxury Widget,249.99,Large,291837465019,5,Premium,Gold-Plated,0.60,TRUE
+W1020,Ergonomic Widget,39.95,Medium,647382915023,42,Health,Silicone,0.32,TRUE
+W1021,Solar Widget,54.50,Standard,384726159023,31,Renewable,Photovoltaic,0.45,TRUE
+W1022,Magnetic Widget,32.75,Small,927364815023,63,Scientific,Ferrous Alloy,0.38,TRUE
+W1023,Thermal Widget,47.99,Medium,736251849302,22,Climate,Ceramic,0.52,FALSE
+W1024,Expandable Widget,36.50,Variable,192837465019,47,Modular,Expandable Polymer,0.35,TRUE
+W1025,Waterproof Widget,49.99,Standard,827364519023,29,Marine,Sealed Composite,0.42,TRUE
+W1026,Compact Pro Widget,64.95,Mini,736251940283,18,Professional,Carbon Fiber,0.25,TRUE
+W1027,Ultra Widget,179.99,Large,192837465102,9,Premium,Titanium Alloy,1.2,TRUE
+W1028,Nano Widget,22.50,Micro,827364510293,76,Micro,Nano-Composite,0.05,TRUE
+W1029,Hybrid Widget,89.95,Medium,736251940192,24,Multi-Purpose,Hybrid Material,0.48,TRUE
+W1030,Essential Widget,17.99,Standard,192837465910,89,Basic,Recycled Plastic,0.30,TRUE
+W1031,Foldable Widget,43.75,Compact,483726159023,37,Portable,Flexible Polymer,0.22,TRUE
+W1032,Transparent Widget,29.99,Medium,726354819023,51,Display,Acrylic,0.28,TRUE
+W1033,Reinforced Widget,72.50,Large,384726159023,15,Security,Reinforced Alloy,1.5,TRUE
+W1034,Disposable Widget,7.99,Small,918273645102,120,Single-Use,Biodegradable,0.10,TRUE
+W1035,Programmable Widget,119.95,Standard,273645819023,13,Customizable,Smart Material,0.38,TRUE
+W1036,Insulated Widget,52.25,Medium,645819273023,28,Thermal,Insulating Composite,0.55,FALSE
+W1037,Lightweight Widget,34.50,Small,918273645019,67,Aerospace,Carbon Fiber,0.15,TRUE
+W1038,Illuminated Widget,45.99,Medium,273645819102,33,Lighting,Translucent Polymer,0.32,TRUE
+W1039,Telescopic Widget,59.75,Variable,645819273102,21,Adjustable,Telescoping Metal,0.70,TRUE
+W1040,Antimicrobial Widget,64.99,Standard,918273645910,26,Medical,Antimicrobial Coating,0.45,TRUE
+W1041,Floating Widget,39.95,Medium,273645819910,44,Aquatic,Buoyant Material,0.25,TRUE
+W1042,Retractable Widget,47.50,Adjustable,645819273910,38,Mechanical,Spring-Loaded Alloy,0.48,FALSE
+W1043,Glow-in-Dark Widget,26.99,Small,918273645019,72,Novelty,Phosphorescent Plastic,0.20,TRUE
+W1044,Pressurized Widget,84.50,Medium,273645819019,17,Industrial,Pressure-Resistant Metal,0.95,TRUE
+W1045,Collapsible Widget,37.25,Compact,645819273019,49,Space-Saving,Collapsible Frame,0.35,TRUE
+W1046,Magnetic Pro Widget,69.99,Standard,918273645029,23,Professional,Magnetic Composite,0.52,TRUE
+W1047,Biodegradable Widget,22.95,Small,273645819029,81,Eco-Friendly,Plant-Based Material,0.18,TRUE
+W1048,High-Temp Widget,74.50,Medium,645819273029,19,Industrial,Heat-Resistant Ceramic,0.65,TRUE
+W1049,Wearable Widget,129.99,Compact,918273645039,12,Wearable Tech,Flexible Electronics,0.15,TRUE
+W1050,Customizable Widget,54.95,Variable,273645819039,31,DIY,Modifiable Components,0.40,TRUE

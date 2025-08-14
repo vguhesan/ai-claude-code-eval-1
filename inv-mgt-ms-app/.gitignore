@@ -1,0 +1,12 @@
+# Ignore specific secret files
+secrets.properties
+.env
+
+# Ignore entire directories that might contain secrets
+/config/secrets/
+
+# Ignore Claude configuration - since they contain secrets
+/.claude/
+
+# Ignore vscode configuration - since they are customized to me
+/.vscode/
